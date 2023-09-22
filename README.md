@@ -1,4 +1,5 @@
 # week-1-code-challenge
+<<<<<<< HEAD
 StudentGrades.js =calculates the grades of students (function that prompts the user to input student marks. The input should be between 0 and 100. The output should correspond the correct grade, as shown below: 
 
         A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.)
@@ -8,3 +9,6 @@ program that takes the speed of a car as input e.g 80. If the speed is less than
 
 
 Net.Salary.js = this entails a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIF Deductions, NSSF Deductions, gross salary, and net salary. 
+=======
+
+>>>>>>> fbb3163d91f72ca1e4d19ffac00b0ebe8b64a5a3
